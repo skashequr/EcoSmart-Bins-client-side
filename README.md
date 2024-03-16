@@ -1,12 +1,12 @@
-#### Eco Smart Bins
+#### InvSmart-Bin
 The Eco Smart Bins project aims to develop a Smart Waste Management System website, leveraging modern technologies to enhance waste collection efficiency, promote recycling, and provide an interactive platform for residents, waste management staff, and administrators.
 
 
-#### To see the website EcoSmart Bins
+#### To see the website InvSmart-Bin
 # Development Site: https://eco-smart-bins.netlify.app
 
 
-# Eco Smart Bins - Summary
+# InvSmart-Bin - Summary
 
 In a world where sustainability is a growing concern, our website aims to address the pressing issue of waste management through innovative and practical solutions.
 
