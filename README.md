@@ -71,7 +71,7 @@ These packages collectively contribute to the functionality, user experience, st
 
 1. **Clone the Repository:** Clone the project repository to your local development environment using the following command:
    ```
-   git clone https://github.com/Raisul-24/EcoSmart-Bins-client-side.git
+   git clone https://github.com/skashequr/InvSmart-Bin
    ```
 2. **Run the command:** Open your termonal and run this command:
    ```
