@@ -90,7 +90,7 @@ These packages collectively contribute to the functionality, user experience, st
    yarn dev
    ```
 
-<!-- ------------------DEVELOPED BY Team-Unbeaten------------------- -->
+<!-- ------------------DEVELOPED BY Sheikh Ashequr Rahman ------------------- -->
 
 Thanks again!
 
